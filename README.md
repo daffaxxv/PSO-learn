@@ -13,6 +13,7 @@ This is the best step where you can learn Particle Swarm Optimization (PSO) in p
   - c1, c2, weight: coefficient of swarm velocity update
   - maxiter: maximum iteration of optimization
   - etol: minimum estimation error (optimization termination parameter)
+  - func: choosing the estimation function equation
   - show_fig: showing estimation figure and iteration cost (boolean)
   ```
 - (myfun) The function to estimate the true value using similar function (you can add manually)
